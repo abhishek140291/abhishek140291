@@ -1,34 +1,44 @@
 # Hi, I'm Abhishek 👋
 
-**Senior Backend Engineer | Java & Spring Boot | Microservices | Cloud | AI Integration**
+**Senior Backend Engineer | Java | Spring Boot | Microservices | Cloud | AI Engineering**
 
-I build backend systems and am expanding into AI-powered applications by combining LLMs, RAG, and agents with established backend technologies.
+I build backend services and distributed applications, with a growing focus on practical AI engineering. I’m combining my Java and backend experience with Python, LLMs, RAG, and agentic workflows to build useful AI-powered systems.
 
-## What I work with
+## Tech stack
 
-- **Backend:** Java, Spring Boot, REST APIs, Node.js
-- **Architecture:** Microservices, service-to-service communication, circuit breakers
-- **Messaging & data:** RabbitMQ, MongoDB, SQL
-- **Cloud & DevOps:** AWS, Jenkins, CI/CD, Docker, Kubernetes
-- **AI application development:** Python, LLM integration, LangChain, LangGraph, RAG, AI agents
-
-## Selected projects
-
-| Project | What it demonstrates |
+| Area | Technologies |
 |---|---|
-| [Expense Tracker](https://github.com/abhishek140291/expense-tracker) | FastAPI backend and Streamlit frontend |
-| [Spring Hystrix Client](https://github.com/abhishek140291/spring-hystrix-client) | Circuit breaker and fallback handling |
-| [Spring Feign Client](https://github.com/abhishek140291/spring-feign-client) | Declarative service-to-service HTTP communication |
-| [RabbitMQ Producer](https://github.com/abhishek140291/Spring-Rabbit_MQ_Producer) / [Consumer](https://github.com/abhishek140291/Spring_Rabbit_MQ_Reciever) | Asynchronous messaging with Spring |
-| [Node.js + MongoDB](https://github.com/abhishek140291/NodeJsWithMongoDB) | Node.js application with MongoDB |
-| [AWS CI/CD](https://github.com/abhishek140291/awscicdrepo) | Maven build and AWS buildspec example |
+| Backend | Java, Spring Boot, Python, FastAPI, Node.js, REST APIs |
+| Architecture | Microservices, service-to-service communication, design patterns |
+| AI engineering | LLM integration, LangChain, LangGraph, RAG, AI agents, Ollama |
+| Messaging & data | RabbitMQ, MongoDB, SQL, Qdrant |
+| Cloud & DevOps | AWS, Docker, Kubernetes, Jenkins, CI/CD |
 
-## Currently learning and building
+## Featured projects
 
-- AI applications with LLMs, RAG pipelines, and agent workflows
-- Integrating Python-based AI services with Java Spring Boot backends
-- Production-ready AI systems: evaluation, observability, security, and deployment
+### 🤖 [Developer Assistant AI Agent](https://github.com/abhishek140291/developer-assistant-ai-agent)
+A local-first AI assistant for developer questions, web research, private-document Q&A, and log investigation.
+
+**Python · LangChain · LangGraph · FastAPI · Ollama · Qdrant · RAG**
+
+### ☕ Backend engineering
+
+- [Spring Hystrix Client](https://github.com/abhishek140291/spring-hystrix-client) — Circuit breaker patterns and fallback handling.
+- [Spring Feign Client](https://github.com/abhishek140291/spring-feign-client) — Declarative HTTP communication between services.
+- [RabbitMQ Producer](https://github.com/abhishek140291/Spring-Rabbit_MQ_Producer) · [RabbitMQ Consumer](https://github.com/abhishek140291/Spring_Rabbit_MQ_Reciever) — Asynchronous messaging with Spring.
+
+### 🧩 Other projects
+
+- [Expense Tracker](https://github.com/abhishek140291/expense-tracker) — FastAPI backend and Streamlit frontend.
+- [Node.js with MongoDB](https://github.com/abhishek140291/NodeJsWithMongoDB) — Node.js and MongoDB application.
+
+## Current focus
+
+- Building production-oriented LLM applications and RAG pipelines.
+- Designing tool-using agents with LangGraph.
+- Integrating Python AI services with Java/Spring Boot backends.
+- Improving system design, cloud deployment, observability, and AI application security.
 
 ## Connect
 
-- GitHub: [@abhishek140291](https://github.com/abhishek140291)
+[GitHub](https://github.com/abhishek140291)
